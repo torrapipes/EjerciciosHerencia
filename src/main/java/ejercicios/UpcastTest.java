@@ -17,5 +17,5 @@ public class UpcastTest {
      EmpUtil.printName(emp);
      EmpUtil.printName(mgr); // Upcasting at work
 
-}
+  }
 }

@@ -1,6 +1,6 @@
 package ejercicios;
 
-public class Manager {
+public class Manager extends Employee {
 
     private String name = null;
 
