@@ -1,6 +1,6 @@
 package ejercicios;
 
-public class EarlyBindingSub {
+public class EarlyBindingSub extends EarlyBindingSuper {
 
 
     public String str = "EarlyBindingSub";
